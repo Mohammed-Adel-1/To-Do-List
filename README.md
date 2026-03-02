@@ -37,9 +37,8 @@ The app allows users to manage daily tasks efficiently with automatic saving usi
 
 ## 📸 Screenshot
 
-(Add a screenshot here)
 
-![App Screenshot](./images/screenshot.png)
+![App Screenshot](./assets/screenshot.png)
 
 ---
 
@@ -48,6 +47,7 @@ The app allows users to manage daily tasks efficiently with automatic saving usi
 ## 🌍 Live Demo (recommended)
 
 👉 https://to-do-list-bymohammed.netlify.app/
+
 
 ## 🏠 Open Locally
 

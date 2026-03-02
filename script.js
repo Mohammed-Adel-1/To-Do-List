@@ -2,7 +2,7 @@ let listContainer = document.getElementById("list-container");
 let addButton = document.getElementById("btn");
 let input = document.getElementById("input-box");
 let list = document.getElementById("list-container");
-const sound = new Audio("ding.mp3");
+const sound = new Audio("assets/ding.mp3");
 
 listContainer.addEventListener("click", function (e) {
   if (e.target.tagName === "LI") {
@@ -61,6 +61,5 @@ function saveData() {
 function showTask() {
   listContainer.innerHTML = localStorage.getItem("data");
 }
-// localStorage.clear();
 showTask();
 
